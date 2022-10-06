@@ -6,6 +6,8 @@
     </head>
     <body>
         <h1>Produk</h1>
+        
+        <!-- desain form dengan menggunakan method GET -->
         <form action="detail-produk.html" method="GET">
             <label for="nama-barang">Nama Produk :</label>
             <input type="text" name="nama-produk"> <br>
