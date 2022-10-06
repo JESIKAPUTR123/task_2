@@ -10,4 +10,6 @@ halaman kedua<br />
 Menampilkan jenis-jenis produk<br />
 Menggunakan minimal 3 selector<br />
 Desain layout, box, tabel dan form menggunakan CSS<br />
-Berikut untuk tampilan dari halaman pertama: <br /> 
+Berikut untuk tampilan dari halaman pertama: <br />
+![PEM web 2](https://user-images.githubusercontent.com/97590486/194267858-66448436-2273-4e6b-a59d-baaee1572148.png)
+
