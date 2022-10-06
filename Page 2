@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Penjelasan Produk</title>
+    </head>
+    <style>
+        h2 {
+            color: black;
+        }
+        .box {
+                border: 1px solid;
+        }
+        .desain-layout {
+            width: 200px;
+        }
+    </style>
+    <body>
+        <h2>Penjelasan Produk</h2>
+        <div class="desain-layout">
+            <div class="box">
+                <tr><td colspan="2" bgcolor="black"><img src="WARGASIPIL.jpg" width="195px" height="200px" border="2"></td></tr>
+                <h3>JAKET WARGA SIPIL</h3>
+                <h4>Rp.720.000,-</h4>
+                <h5>Bahan Levis, Ukuran M , L , XL . Hanya tersedia 189 stok , hanya tersedia untuk metode pembayaran transfer </h5>
+            </div>
+            <div class="desain-layout">
+                <div class="box">
+                    <tr><td colspan="2" bgcolor="black"><img src="narasi kaos.jpg" width="195px" height="200px" border="2"></td></tr>
+                    <h3>KAOS NARASI</h3>
+                    <h4>Rp.300.000,-</h4>
+                    <h5>Bahan katun, tersedia ukuran M , L , XL . Bisa bayar ditempat </h5>
+        </div>
+        <div class="desain-layout">
+            <div class="box">
+                <tr><td colspan="2" bgcolor="black"><img src="mata najwa.jpg" width="195px" height="200px" border="2"></td></tr>
+                <h3>MATA NAJWA</h3>
+                <h4>Rp.280.000,-</h4>
+                <h5>Bahan katun, tersedia ukuran M , L , XL . Bisa bayar ditempat </h5>
+        </div>
+    </body>
+</html>
