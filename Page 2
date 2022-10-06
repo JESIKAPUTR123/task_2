@@ -17,12 +17,15 @@
     <body>
         <h2>Penjelasan Produk</h2>
         <div class="desain-layout">
+            <!-- penggunaan selector untuk membuat box -->
             <div class="box">
                 <tr><td colspan="2" bgcolor="black"><img src="WARGASIPIL.jpg" width="195px" height="200px" border="2"></td></tr>
                 <h3>JAKET WARGA SIPIL</h3>
                 <h4>Rp.720.000,-</h4>
                 <h5>Bahan Levis, Ukuran M , L , XL . Hanya tersedia 189 stok , hanya tersedia untuk metode pembayaran transfer </h5>
             </div>
+            
+            <!-- penggunaan selector untuk desain layout -->
             <div class="desain-layout">
                 <div class="box">
                     <tr><td colspan="2" bgcolor="black"><img src="narasi kaos.jpg" width="195px" height="200px" border="2"></td></tr>
